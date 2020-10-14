@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+/*
+Реализация матричного калькулятора с использованием WinForms
+*/
 
 namespace matrix_calculator
 {
